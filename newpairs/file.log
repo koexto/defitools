@@ -1,0 +1,202 @@
+OK: SELECT * FROM options ORDER BY id DESC LIMIT 1;
+-- rows: 1
+-- takes: 140.448 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:69
+-- driver: mysqli/
+-- 2021-02-19 00:05:35
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 15.719 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:70
+-- driver: mysqli/
+-- 2021-02-19 00:11:47
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.330 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:13:35
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.567 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:65
+-- driver: mysqli/
+-- 2021-02-19 00:25:24
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.305 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:65
+-- driver: mysqli/
+-- 2021-02-19 00:27:33
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 2.141 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:34:54
+
+OK: UPDATE options SET `blockId`='4738502' WHERE id = 1;
+-- rows: 1
+-- takes: 80.577 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:12
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.483 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:17
+
+OK: UPDATE options SET `blockId`='4738734' WHERE id = 1;
+-- rows: 1
+-- takes: 5.778 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:19
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.830 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:22
+
+OK: UPDATE options SET `blockId`='4738955' WHERE id = 1;
+-- rows: 1
+-- takes: 1.674 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:24
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.478 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:26
+
+OK: UPDATE options SET `blockId`='4739179' WHERE id = 1;
+-- rows: 1
+-- takes: 0.945 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:28
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.413 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:29
+
+OK: UPDATE options SET `blockId`='4739431' WHERE id = 1;
+-- rows: 1
+-- takes: 1.171 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:31
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.407 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:32
+
+OK: UPDATE options SET `blockId`='4739664' WHERE id = 1;
+-- rows: 1
+-- takes: 0.961 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:34
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.686 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:35
+
+OK: UPDATE options SET `blockId`='4739923' WHERE id = 1;
+-- rows: 1
+-- takes: 0.801 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:36
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.542 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:37
+
+OK: UPDATE options SET `blockId`='4740127' WHERE id = 1;
+-- rows: 1
+-- takes: 0.911 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:39
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.827 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:40
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 1.457 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:35:46
+
+OK: UPDATE options SET `blockId`='4740371' WHERE id = 1;
+-- rows: 1
+-- takes: 0.767 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:54
+
+OK: UPDATE options SET `blockId`='4740371' WHERE id = 1
+-- takes: 1.026 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:35:58
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 3.956 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:75
+-- driver: mysqli/
+-- 2021-02-19 00:36:47
+
+OK: UPDATE options SET `blockId`='4850679' WHERE id = 1;
+-- rows: 1
+-- takes: 0.930 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:67
+-- driver: mysqli/
+-- 2021-02-19 00:36:49
+
+OK: SELECT blockId FROM options WHERE id = 1;
+-- rows: 1
+-- takes: 46.052 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:77
+-- driver: mysqli/
+-- 2021-02-19 00:39:08
+
+OK: UPDATE options SET `blockId`=NULL WHERE id = 1;
+-- rows: 1
+-- takes: 1.462 ms
+-- source: W:\domains\defitools.local\newpairs\index.php:69
+-- driver: mysqli/
+-- 2021-02-19 00:39:09
+
